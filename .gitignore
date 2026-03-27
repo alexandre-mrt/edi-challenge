@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env
+.env.local
+.env*.local
+out/
+dist/
+*.tsbuildinfo
+next-env.d.ts
+cache/
+artifacts/
+typechain-types/
+CLAUDE.md
+NIGHT_SHIFT_*.md
+INTERVIEW_PREP.md
+.vercel
